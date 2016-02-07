@@ -14,6 +14,7 @@ Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'FelikZ/ctrlp-py-matcher'
 Plugin 'pearofducks/ansible-vim'
 Plugin 'scrooloose/nerdtree'
+Plugin 'leafgarland/typescript-vim'
 " End Vundle plugins
 call vundle#end()
 
