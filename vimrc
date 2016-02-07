@@ -15,6 +15,7 @@ Plugin 'FelikZ/ctrlp-py-matcher'
 Plugin 'pearofducks/ansible-vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'leafgarland/typescript-vim'
+Plugin 'danro/rename.vim'
 " End Vundle plugins
 call vundle#end()
 
