@@ -16,6 +16,8 @@ Plugin 'pearofducks/ansible-vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'danro/rename.vim'
+Plugin 'elixir-lang/vim-elixir'
+Plugin 'haskell.vim'
 " End Vundle plugins
 call vundle#end()
 
